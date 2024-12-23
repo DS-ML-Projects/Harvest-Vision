@@ -42,11 +42,6 @@ Below is a placeholder for the decision tree visualization generated during the 
 - `yield-prediction-1-0.ipynb`: Jupyter Notebook containing the full implementation of the project.
 - `decision-tree.png`: Visualization of the decision tree regressor (attach actual image here).
 
-## Future Work
-- Expand the dataset with more features such as pest data and crop disease information.
-- Explore advanced regression models like Random Forest and Gradient Boosting.
-- Develop an API to serve predictions in real-time.
-
 ## How to Run
 1. Clone this repository.
 2. Open `yield-prediction-1-0.ipynb` in Jupyter Notebook.
