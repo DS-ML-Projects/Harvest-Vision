@@ -1,4 +1,4 @@
-# Crop Yield Prediction
+# Harvest Vision
 This project uses data from Kaggle to predict crop yields. The data and scripts used in this project are based on the work by [Mohamed Ayman El-Khatib](https://www.kaggle.com/code/mohamedaymanelkhatib/yield-prediction-1-0?scriptVersionId=214508957).
 
 ## Dataset Overview
