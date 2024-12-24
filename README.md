@@ -40,7 +40,7 @@ Below is a placeholder for the decision tree visualization generated during the 
 
 ## Files Included
 - `yield-prediction-1-0.ipynb`: Jupyter Notebook containing the full implementation of the project.
-- `decision-tree.png`: Visualization of the decision tree regressor (attach actual image here).
+- `decision-tree.png`: Visualization of the decision tree regressor.
 
 ## How to Run
 1. Clone this repository.
