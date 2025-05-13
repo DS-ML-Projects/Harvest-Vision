@@ -58,6 +58,6 @@ Below is a placeholder for the decision tree visualization generated during the 
 
 ## How to Run
 1. Clone this repository.
-2. Open `harvest vision.ipynb` in Jupyter Notebook.
+2. Open `harvest-vision.ipynb` in Jupyter Notebook.
 3. Run all cells to preprocess the data, train the models, generate visualizations, and evaluate results.
 
