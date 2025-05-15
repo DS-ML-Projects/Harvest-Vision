@@ -3,7 +3,8 @@ This project uses data from Kaggle to predict crop yields. The data and scripts 
 
 ## Dataset Overview
 This dataset contains agricultural data for 1,000,000 samples aimed at predicting crop yield (in tons per hectare). It can be used for regression tasks in machine learning, especially for predicting crop productivity. The dataset includes the following features:
-###Dataset Link:[Crop-yield-Prediction](https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield)
+
+Dataset Link:[Crop-yield-Prediction](https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield)
 
 - **Region**: The geographical location where the data was collected.
 - **Soil Type**: The type of soil (e.g., sandy, clay, loamy).
