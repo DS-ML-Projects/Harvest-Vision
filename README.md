@@ -1,5 +1,5 @@
 # Harvest Vision
-This project uses data from Kaggle to predict crop yields. The data and scripts used in this project are based on the work by [Mohamed Ayman El-Khatib](https://www.kaggle.com/code/mohamedaymanelkhatib/harvest-vision), Youssef MOhamed and Lauren Osama.
+This project uses data from Kaggle to predict crop yields. The data and scripts used in this project are based on the work by [Mohamed Ayman El-Khatib](https://www.kaggle.com/code/mohamedaymanelkhatib/harvest-vision), Youssef Mohamed and Lauren Osama.
 
 ## Dataset Overview
 This dataset contains agricultural data for 1,000,000 samples aimed at predicting crop yield (in tons per hectare). It can be used for regression tasks in machine learning, especially for predicting crop productivity. The dataset includes the following features:
