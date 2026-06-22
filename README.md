@@ -78,27 +78,6 @@ Accurately forecasting crop yield helps farmers, agribusinesses, and policymaker
 
 ---
 
-## Visualizations
-
-### Decision Tree Structure
-The depth-limited tree provides an interpretable view of the most important feature splits:
-
-![Decision Tree](./decision-tree.png)
-
-### Learning Curves
-Training vs. cross-validation accuracy as a function of training set size — useful for diagnosing bias-variance tradeoff:
-
-| Model | Learning Curve |
-|-------|----------------|
-| Decision Tree | ![Decision Tree](./learning_curve_decision_tree.png) |
-| Logistic Regression | ![Logistic Regression](./learning_curve_logistic_regression.png) |
-| Linear SVM | ![Linear SVM](./learning_curve_linear_svm.png) |
-| KNN | ![KNN](./learning_curve_knn.png) |
-| Random Forest | ![Random Forest](./learning_curve_random_forest.png) |
-| Stacking Classifier | ![Stacking Classifier](./learning_curve_stacking_classifier.png) |
-
----
-
 ## Tech Stack
 
 | Layer | Technologies |
@@ -150,14 +129,8 @@ jupyter notebook harvest-vision.ipynb
 
 ```
 Harvest-Vision/
-├── harvest-vision.ipynb          # Main notebook — full ML pipeline
-├── README.md                     # This file
-├── decision-tree.png             # Decision tree visualization
-├── learning_curve_*.png          # Learning curves for each model
-├── confusion_matrix_*.png        # Confusion matrices for each model
-├── correlation_heatmap.png       # Feature correlation heatmap
-├── numerical_distributions.png   # Feature distribution histograms
-└── numerical_boxplots.png        # Outlier detection box plots
+├── harvest-vision.ipynb    # Main notebook — full ML pipeline
+└── README.md               # This file
 ```
 
 ---
